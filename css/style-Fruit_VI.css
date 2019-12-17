@@ -1,0 +1,55 @@
+.thirdLine{
+	margin-top:40px;
+}
+.thirdLine p{
+	color:black;
+	margin-top:15px;
+	font-size:22px;
+	font-weight:slim;
+}
+.container .discribe{
+    width: 600px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.container .discribe .secondLine{
+    margin-bottom: 15px;
+}
+
+.container .discribe .thirdLine{
+    font-family:cursive;
+    font-size: 20px;
+}
+
+.IconElements{
+    width: 1000px;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.element{
+    float: left;
+    margin: 60px;
+}
+
+.Poster{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.PosterElement{
+    float: left;
+    margin: 20px;
+}
+
+.foot{
+    width: 900px;
+    float: left;
+    text-align: center;
+    margin-top: 150px;font-size: 13px;
+  
+}

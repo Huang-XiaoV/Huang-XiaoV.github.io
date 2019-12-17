@@ -1,0 +1,44 @@
+.center .guideSystem{
+    width: 800px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.guideImg{
+    float: left;
+}
+
+.container .discribe{
+    float: left;
+    margin-left: 50px;
+}
+
+.container .discribe .secondLine{
+    margin-bottom: 15px;
+}
+
+.container .discribe .thirdLine{
+    font-family:cursive;
+    font-size: 20px;
+}
+
+.DisignDraft{
+    width: 900px;
+    float: left;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.DisignDraft table td{
+    padding: 20px;
+}
+
+.foot{
+    width: 900px;
+    float: left;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 13px;
+}
