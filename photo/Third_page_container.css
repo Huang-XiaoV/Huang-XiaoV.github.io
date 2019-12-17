@@ -1,0 +1,81 @@
+.container{
+	margin-top:3px;
+	margin-left:240px;
+	width:1000px;
+	height:1800px;
+	background:white;
+	
+}
+.container{
+	padding-left:100px;
+	padding-top:180px;
+}
+
+.UI_Design{
+	height:450px;
+	width:1000px;
+}
+#char1{
+	margin-left:50px;
+	height:440px;
+	width:400px;
+	float:left;
+	
+
+}
+#char1 p{
+	color:black;
+}
+#char2{
+	margin-top:40px;
+}
+#char2 p{
+	font-size:20px;
+}
+#img{
+	float:right;
+	margin-right:120px;
+}
+
+.Design_draft{
+	margin-left:45px;
+	margin-top:150px;
+	width:1000px;
+	height:500px;
+
+}
+.Icon_table{
+	margin-left:45px;
+	margin-top:180px;
+	width:1000px;
+	height:450px;
+	
+}
+.icon_left,.icon_right{
+	margin-top:50px;
+	float:left;
+	height:200px;
+	width:400px;
+
+}
+.icon_right{
+	margin-left:50px;
+}
+
+#indicator,#function{
+	height:60px;
+	width:200px;
+	border:1px solid black;
+	margin-left:40px;
+	margin-bottom:30px;
+	line-height:30px;
+	text-align:center;
+
+}
+#function{
+	margin-left:70px;
+}
+.last_word{
+	margin-top:45px;
+	margin-left:370px;
+}
