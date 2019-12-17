@@ -48,25 +48,25 @@ h4{
 }
 a:link{
 	color: #8892b0;
-	font-size: 12pt;
+	font-size: 10pt;
 		 text-decoration:none;
 		padding: 20px
 }
 a:visited{color: #8892b0;
 	
-	font-size: 12pt;	
+	font-size: 10pt;	
    text-decoration:none;
     padding: 20px
 }
 a:hover{color: #eb3656;
 	
-	font-size: 12pt;	
+	font-size: 10pt;	
    text-decoration:underline;
     padding: 20px
 }
 a:active{color: #eb3656;
 	
-	font-size: 12pt;	
+	font-size: 10pt;	
    text-decoration:underline;
   padding: 20px
 }
@@ -75,25 +75,31 @@ a:active{color: #eb3656;
 a.zhuye:link{	
 	color: white;
 	margin: 20PX;
-	font-size: 16pt;
+	position: relative;
+  top:-5px;
+	font-size: 13pt;
 		 text-decoration:none;
 		  font-weight: bold;
 }
 a.zhuye:visited{color: white;
-	font-size: 16pt;
+	position: relative;
+  top:-5px;
+	font-size: 13pt;
 	margin: 20PX;	
    text-decoration:none;
     font-weight: bold;
 }
 a.zhuye:hover{color: white;
-	font-size: 16pt;	
+	font-size: 13pt;	position: relative;
+  top:-5px;
 	margin: 20PX;
    text-decoration:underline;
  font-weight: bold;
 }
 a.zhuye:active{color: white;
-	font-size: 16pt;
-	margin: 20PX;	
+	font-size: 13pt;
+	margin: 20PX;	position: relative;
+  top:-5px;
        text-decoration:underline;
         font-weight: bold;
 }
