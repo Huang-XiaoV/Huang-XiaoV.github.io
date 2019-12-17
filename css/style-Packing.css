@@ -1,0 +1,39 @@
+
+.Packaging_design{
+	height:100px;
+	width:500px;
+	
+}
+.Packaging_design p{
+	color:black;
+	font-weight:slim;
+}
+.Packaging_info{
+	margin-top:40px;
+	height:200px;
+	width:500px;
+	margin-bottom:100px;
+	
+}
+
+h2.r{
+	margin-bottom: 70px;
+	margin-top: 150px;
+}
+.Packaging_info p{
+	color:black;
+	font-weight:slim;
+}
+.Packaging_Gaphic{
+	margin-bottom:100px;
+}
+.last_word{
+	margin-top:170px;
+	margin-bottom: 10px;
+	height:30px;
+	width:400px;
+	margin-left:400px;
+}
+p.end1{
+	font-size: 13px;
+ padding:10px;}
